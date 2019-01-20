@@ -1,0 +1,22 @@
+
+
+
+
+.box {
+    width: 850px;
+    height: 500px;
+    background-color: #777;
+    border: 5px solid rgb(58, 54, 56);
+    padding: 10px;
+  }
+
+  font-family: 'Arial','Helvetica Neue', Helvetica, sans-serif;'
+  font-size: 18px;
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ccc;
+  }
+  
